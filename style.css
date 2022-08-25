@@ -1,0 +1,19 @@
+body {
+  background-image: url("download.jpg");
+
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 200%;
+  font-family: sans-serif;
+}
+p {
+  color: white;
+  text-align: left;
+  font-size: 100%;
+  font-family: helvetica;
+}
